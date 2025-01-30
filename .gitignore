@@ -21,6 +21,10 @@
 *.dylib
 *.dll
 
+# Go module files
+*.mod
+*.sum
+
 # Fortran module files
 *.mod
 *.smod
