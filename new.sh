@@ -16,6 +16,7 @@ printf '%s\n' "package main
 
 import (
     \"fmt\"
+    \"net/http\"
 )
 
 func main() {
